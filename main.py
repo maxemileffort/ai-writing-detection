@@ -6,7 +6,9 @@ from openai import OpenAI
 from dotenv import load_dotenv
 
 # Load the .env file
-load_dotenv()
+# load_dotenv() # for development
+os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
+
 
 # Fetch the API key from the .env file
 client = OpenAI()
