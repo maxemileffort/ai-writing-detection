@@ -45,6 +45,6 @@ You can add papers either by dragging and dropping, or simply browsing. Try not 
 
 7. Click analyze.
 
-![Step 6. Results](/images/results.jpg)
+![Step 6. Results](/images/resultsjpg.jpg)
 
 8. Check the results. I had hoped to be able to click each button below to create a modal for sampling papers with highlights of the AI parts, but that was really beyond the scope of the project, which was just to get to know the API for chatGPT.
